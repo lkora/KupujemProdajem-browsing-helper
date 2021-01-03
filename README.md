@@ -1,2 +1,2 @@
-# KupujemProdajem-webcrawler-buying-advisor
-A small script that scrapes KupujemProdajem.com products using the Scrapy, the open source framework for extracting the data, and w
+# KupujemProdajem webcrawler
+A small script that scrapes KupujemProdajem.com products using Scrapy, the open source framework for extracting the data, and wrapping it in a page.  
