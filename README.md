@@ -1,2 +1,2 @@
 # KupujemProdajem webcrawler
-A small script that scrapes www.kupujemprodajem.com products using Scrapy, the open source framework for extracting the data, and wrapping it in a page.  
+A small script that scrapes <a href="https://www.kupujemprodajem.com">KupujemProdajem</a> products using <a href="https://scrapy.org/">Scrapy</a>, and wrapping it in an easily readable page.  
