@@ -37,11 +37,3 @@ class KPSpider(sc.Spider):
                 callback=self.parse
             )
             
-
-
-# def main():
-
-
-
-# if __name__ == "__main__":
-#     main()
